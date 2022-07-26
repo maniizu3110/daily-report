@@ -1,0 +1,2 @@
+quickcheck=/Users/leosaito/workspace/80/quickcheck/.git
+qrgo-v2=/Users/leosaito/workspace/80/QRGO-v2/.git
